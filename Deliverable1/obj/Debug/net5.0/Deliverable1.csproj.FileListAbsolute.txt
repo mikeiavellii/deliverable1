@@ -1,0 +1,16 @@
+D:\Programs\Applications\Visual Studio\Deliverable1\Deliverable1\bin\Debug\net5.0\Deliverable1.exe
+D:\Programs\Applications\Visual Studio\Deliverable1\Deliverable1\bin\Debug\net5.0\Deliverable1.deps.json
+D:\Programs\Applications\Visual Studio\Deliverable1\Deliverable1\bin\Debug\net5.0\Deliverable1.runtimeconfig.json
+D:\Programs\Applications\Visual Studio\Deliverable1\Deliverable1\bin\Debug\net5.0\Deliverable1.runtimeconfig.dev.json
+D:\Programs\Applications\Visual Studio\Deliverable1\Deliverable1\bin\Debug\net5.0\Deliverable1.dll
+D:\Programs\Applications\Visual Studio\Deliverable1\Deliverable1\bin\Debug\net5.0\ref\Deliverable1.dll
+D:\Programs\Applications\Visual Studio\Deliverable1\Deliverable1\bin\Debug\net5.0\Deliverable1.pdb
+D:\Programs\Applications\Visual Studio\Deliverable1\Deliverable1\obj\Debug\net5.0\Deliverable1.csproj.AssemblyReference.cache
+D:\Programs\Applications\Visual Studio\Deliverable1\Deliverable1\obj\Debug\net5.0\Deliverable1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Applications\Visual Studio\Deliverable1\Deliverable1\obj\Debug\net5.0\Deliverable1.AssemblyInfoInputs.cache
+D:\Programs\Applications\Visual Studio\Deliverable1\Deliverable1\obj\Debug\net5.0\Deliverable1.AssemblyInfo.cs
+D:\Programs\Applications\Visual Studio\Deliverable1\Deliverable1\obj\Debug\net5.0\Deliverable1.csproj.CoreCompileInputs.cache
+D:\Programs\Applications\Visual Studio\Deliverable1\Deliverable1\obj\Debug\net5.0\Deliverable1.dll
+D:\Programs\Applications\Visual Studio\Deliverable1\Deliverable1\obj\Debug\net5.0\ref\Deliverable1.dll
+D:\Programs\Applications\Visual Studio\Deliverable1\Deliverable1\obj\Debug\net5.0\Deliverable1.pdb
+D:\Programs\Applications\Visual Studio\Deliverable1\Deliverable1\obj\Debug\net5.0\Deliverable1.genruntimeconfig.cache
